@@ -154,13 +154,8 @@
 
 
 
-#### Plain text
-[Часть 1](https://github.com/boligolov/owner_of_the_castle/blob/master/part1.txt)
-[Часть 2](https://github.com/boligolov/owner_of_the_castle/blob/master/part2.txt)
-
-
-
-
+#### Полный текст
+[Весь текст без форматирования](https://github.com/boligolov/owner_of_the_castle/blob/master/owner_of_the_castle.txt)
 
 #### Ссылки
 [Мой сайт](http://technocastle.ru)
